@@ -6,11 +6,11 @@ This SDK works in a similar way to the official python SDK, you can even use the
 
 ## TODO
 
-[] Pools support
-[] Jobs support
-[] Pagination support
-[] Better error management
-[] Improve task constants usage (I'm not satisfied)
+ - [ ] Pools support
+ - [ ] Jobs support
+ - [ ] Pagination support
+ - [ ] Better error management
+ - [ ] Improve task constants usage (I'm not satisfied)
 
 ## Notes
 
